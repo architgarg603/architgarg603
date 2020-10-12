@@ -13,8 +13,7 @@ const Archit Garg = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Java", "HTML", "C++],
   tools: ["React","Node","Express"],
-  askMeAbout: ["web dev", "tech", "photography"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react."
+  askMeAbout: ["web dev", "tech", "photography"]
 }
 ```
 
