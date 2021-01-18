@@ -1,7 +1,5 @@
 <h2> Namaste, I'm Archit garg !!</h2>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230" >
-<p><em>Teaching Assistant at <a href="https://www.pepcoding.com/">Pep Coding</a>
-</em></p>
 
 [![Twitter: architgarg603](https://img.shields.io/twitter/url?label=architgarg603&style=social&url=https%3A%2F%2Ftwitter.com%2Farchitgarg603)](https://twitter.com/architgarg603)
 [![Linkedin: architgarg603](https://img.shields.io/badge/-architgarg603-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/architgarg603/)](https://www.linkedin.com/in/architgarg603/)
