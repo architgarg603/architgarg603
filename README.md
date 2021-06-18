@@ -17,8 +17,7 @@ const Archit Garg = {
 }
 ```
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=architgarg603)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=architgarg603&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architgarg603&theme=buefy&layout=compact" />
 
 ---
