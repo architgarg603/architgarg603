@@ -19,6 +19,8 @@ const Archit Garg = {
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=architgarg603&theme=buefy&show_icons=true" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architgarg603&theme=buefy&layout=compact"  align="right" />
 
+<br>
+
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
