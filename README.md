@@ -26,9 +26,9 @@ const Archit Garg = {
 ```
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architgarg603&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architgarg603&theme=github_dark" align="left" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architgarg603&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=architgarg603&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=architgarg603&theme=github_dark" align="left"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=architgarg603&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=architgarg603&theme=github_dark" />
 </div>
 <br>
