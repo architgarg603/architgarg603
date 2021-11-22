@@ -1,6 +1,4 @@
-
-<!--- Body Begins -->
-<h1 align="center"> Hi there, I'm Archit </h1>
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/57831888/142844533-512f920c-4e9b-45ff-984c-1289cf08780a.png)
 
 <!--- Adding Header Elements -->
 <p align="center">
